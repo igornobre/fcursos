@@ -1,0 +1,85 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/03/2014, 19:46:02
+    Author     : igornobre
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+body {
+	width: 100%;
+	margin-left: 0px;
+	margin-top: 0px;
+	font-family: 'Open Sans', sans-serif;
+        background: #f7f7f7;
+}
+a {
+	text-decoration: none;
+}
+img {
+	border: none;
+}
+
+    .topoHome{
+        float: left;
+        width: 100%;
+        min-height: 50px;
+        padding-bottom: 10px;
+        background: #21353c;
+    }
+    
+    .logoHomeFcursos{
+        float: left;
+        margin-top: 10px;
+        margin-left: 5%;
+        width: 90px;
+        height: 90px;
+        background: url(../img/principal/logoFcursos.png);
+        background-size: 100%;
+        border-radius: 100%;
+        cursor: pointer;
+    }
+    
+    .logoHomeFcursos:hover{
+        opacity: 0.9;
+    }
+    
+    .carregar{
+        float: left;
+        width: 100%;
+        min-height: 50px;
+        padding-bottom: 10px;
+        background: #f7f7f7;
+    }   
+    
+    .iconIconesTodosH{
+       float: left;
+       margin-top: 30px;
+       margin-left: 4%;
+       width: 20%;
+       min-height: 200px;
+       background-size: 100%; 
+       cursor: pointer;
+    }
+    
+    .texIconIconesTodosH{
+       float: left;
+       margin-top: 2px;
+       margin-left: 2%;
+       width: 96%;
+       height: 70px;
+       font-size: 110%;
+       text-align: center;
+       color: #21353c;
+    }
+    
+    .icoIconIconesTodosH img{
+        float: left;
+        margin-top: 5px;
+        margin-left: 20%;
+        width: 60%;
+        height: 180px;
+    }

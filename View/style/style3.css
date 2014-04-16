@@ -1,0 +1,126 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/03/2014, 10:55:49
+    Author     : igornobre
+*/
+
+.barra_descricao{
+    float: left;
+    margin-top: 10px;
+    margin-left: 5%;
+    width: 90%;
+    min-height: 50px;
+    color: #4b3f3f;
+    font-size: 200%;
+}
+
+.barra_pesquisa{
+    float: left;
+    margin-left: 5%;
+    width: 90%;
+    min-height: 30px;
+    color: #4b3f3f;
+    font-size: 200%;
+}
+
+.barra_pesquisa input{
+    float: right;
+}
+
+.alunos{
+    float: left;
+    margin-top: 10px;
+    margin-left: 5%;
+    width: 90%;
+    min-height: 50px;
+}
+
+.alunosTotal{
+    float: left;
+    margin-top: 10px;
+    margin-left: 0%;
+    width: 100%;
+    min-height: 30px;
+}
+
+.alunosTitulo{
+    float: left;
+    margin-top: 0px;
+    margin-left: 0%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    min-height: 20px;
+    font-size: 110%;
+    cursor: pointer;
+    color: #fff;
+    background: #7f8c8d;
+}
+
+.alunosTitulo a{
+    margin-left: 3px;
+}
+
+.alunosConteudo{
+    float: left;
+    margin-top: 10px;
+    margin-left: 0%;
+    width: 100%;
+    min-height: 30px;
+    display: none;
+}
+
+.campo100{
+    float: left;
+    width: 100%;
+    min-height: 30px;
+    margin-top: -5px;
+}
+
+.campo100 input{
+    margin-left: 1%;
+    width: 98%;
+}
+
+.campo100 button{
+    margin-left: 1%;
+    min-width: 8%;
+    border: none;
+    cursor: pointer;
+    font-size: 120%;
+    height: 35px;
+    color: #FFF;
+    background: #26a15e;
+}
+
+.label{
+    display: block;
+    margin-left: 1%;
+}
+
+.campo50{
+    float: left;
+    width: 50%;
+    height: 50px;
+    margin-top: -5px;
+}
+
+.label2{
+    display: block;
+    margin-left: 2%;
+}
+
+.campo50 input{
+    margin-left: 2%;
+    width: 96%;
+}
+
+.campo50 select{
+    margin-left: 2%;
+    width: 96%;
+    height: 22px;
+}

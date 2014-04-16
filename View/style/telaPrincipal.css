@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24/03/2014, 20:12:38
+    Author     : igornobre
+*/
+
+.menuCadastro{
+    float: left;
+    margin-top: 20px;
+    margin-left: 5%;
+    width: 90%;
+    min-height: 50px;
+}
+
+.tituloCadastro{
+    float: left;
+    margin-top: 2px;
+    width: 90%;
+    min-height: 30px;
+    font-size: 150%;
+    padding-bottom: 20px;
+    color: #4b3f3f;
+}
+
+.camposGrandes{
+    float: left;
+    width: 100%;
+    min-height: 30px;
+    padding-bottom: 5px;
+}
+
+.camposGrandes label{
+    display: block;
+    color: #4b3f3f;
+    font-size: 120%;
+}
+
+.camposGrandes label a{
+    font-size: 80%;
+    color: red;
+}
+
+.inputGrade{
+    float: left;
+    margin-top: 3px;
+    width: 98%;
+    height: 20px;
+    color: #4b3f3f;
+    font-size: 100%;
+}
+
+
+.camposMedio{
+    float: left;
+    width: 50%;
+    min-height: 30px;
+    padding-bottom: 5px;
+}
+
+.camposMedio label{
+    display: block;
+    color: #4b3f3f;
+    font-size: 120%;
+}
+
+.camposMedio label a{
+    font-size: 80%;
+    color: red;
+}
+
+.inputMedio{
+    float: left;
+    margin-top: 3px;
+    width: 96%;
+    height: 20px;
+    color: #4b3f3f;
+    font-size: 100%;
+}
+
+.botaoCadastrar{
+    float: left;
+    margin-top: 10px;
+    margin-left: 0%;
+    min-width: 20%;
+    height: 50px;
+    text-align: center;
+    border: none;
+    font-size: 120%;
+    color: #FFF;
+    cursor: pointer;
+    background: #26a15e;
+}
+
+.botaoCadastrar:hover{
+    opacity: 0.8;
+}
