@@ -7,9 +7,9 @@
  */
 class conexao {
     
-    public $host = 'mysql:host=127.0.0.1;dbname=fcursos';
+    public $host = 'mysql:host=177.153.22.4;dbname=fcursos';
     public $user = 'root';
-    public $pass = '';
+    public $pass = 'ZIwF1HH7pB';
     
 }
 
